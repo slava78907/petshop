@@ -1,0 +1,21 @@
+@media (max-width: 320px){
+    .header{
+        margin-top: 20px;
+        background:#FFEEEE ;
+    }
+
+    .header__logo{
+        margin-left: 10px;
+        width: 196px;
+        height: 71px;
+    }
+    .header__nav{
+        margin-left: 10px;
+    }
+    .header__nav a{
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: 700;
+        color: #000;
+    }
+}
